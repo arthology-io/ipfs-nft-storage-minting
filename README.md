@@ -1,3 +1,8 @@
+# Links to other repositories relevant for our project:
+
+1. https://github.com/arthology-io/arthology-backend -> Arthology backend + VR visualization
+2. https://github.com/arthology-io/arthology-frontend -> Arthology frontend
+
 # 🎟 nft-e2e-example
 
 > An end-to-end example of minting NFTs on Ethereum from your browser. Powered by nft.storage and scaffold-eth!
