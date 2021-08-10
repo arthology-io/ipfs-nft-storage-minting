@@ -1,6 +1,6 @@
 # Project name: Arthology.io
 
-# Project Overview: A very user-friendly platform that will allow artists to be exposed to art galleries and curators. Artists will be able to mint their digital art on the ETH and store it on IFPS (NFT.Storage); Curators will sell those NFTs online (embeded marketplaces in their website) / physical gallery (NFT Exhibition) or in the virtual world (virtual gallery); all supported by our technology. The artist will define the royalties fees and some special attributes like for example private content or VR access to exhibition (we want to add utility to the NFTs). Once the NFT is submitted, the curators will be able to sell them. We will support them in the buying/selling process. 
+Project Overview: A very user-friendly platform that will allow artists to be exposed to art galleries and curators. Artists will be able to mint their digital art on the ETH and store it on IFPS (NFT.Storage); Curators will sell those NFTs online (embeded marketplaces in their website) / physical gallery (NFT Exhibition) or in the virtual world (virtual gallery); all supported by our technology. The artist will define the royalties fees and some special attributes like for example private content or VR access to exhibition (we want to add utility to the NFTs). Once the NFT is submitted, the curators will be able to sell them. We will support them in the buying/selling process. 
 
 # Links to other repositories relevant for our project:
 
