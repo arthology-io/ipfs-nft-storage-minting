@@ -6,8 +6,9 @@ Project Overview: A very user-friendly platform that will allow artists to be ex
 
 # Links to other repositories relevant for our project:
 
-1. https://github.com/arthology-io/arthology-backend -> Arthology backend + VR visualization
+1. https://github.com/arthology-io/arthology-backend -> Arthology backend 
 2. https://github.com/arthology-io/arthology-frontend -> Arthology frontend
+3. https://github.com/arthology-io/arthology-vr -> VR visualization
 
 # 🎟Current solution for NFT minting, based on nft-e2e-example
 
